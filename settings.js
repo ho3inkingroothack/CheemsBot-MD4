@@ -54,18 +54,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['2250703592658'] //ur owner number
+global.ownername = "ℍ𝕆3𝕚ℕ 𝐾𝐼𝑁𝐺 ŘØŐŢ 𝙷𝙰𝙲𝙺" //ur owner name
+global.ytname = "YT: @Linux_line" //ur yt chanel name
+global.socialm = "GitHub: @ho3inkingroothack" //ur github or insta name
+global.location = "Iran , shiraz" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['2250703592658']
+global.ownertag = '2250703592658' //ur tag number
+global.botname = 'ℍ𝕆3𝕚ℕ 𝐾𝐼𝑁𝐺 ŘØŐŢ 𝙷𝙰𝙲𝙺 bot' //ur bot name
+global.linkz = "https://youtu.be/@linux_line" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/@linux_line" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
